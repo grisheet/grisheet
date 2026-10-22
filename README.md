@@ -7,16 +7,11 @@ local grisheet = {
     studying = "Computer Science & Economics",
 
     building = {
-        "Research frameworks",
-        "Financial dashboards",
-        "Detection rules",
+        "Research frameworks", "Financial dashboards", "Detection rules"
     },
 
     exploring = {
-        "Quantitative finance",
-        "Machine learning",
-        "Linux systems",
-        "Sports analytics",
+        "Quantitative finance", "Machine learning", "Linux systems", "Sports analytics"
     },
 }
 
