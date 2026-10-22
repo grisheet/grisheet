@@ -1,21 +1,39 @@
 # Grisheet Dhage
 
-**Computer science student turning financial data into tools you can inspect, question, and learn from.**
+Computer science & economics student building tools to explore financial data, test ideas, and make results easier to question.
 
-```python
-class Grisheet:
-    studying = "Computer Science & Economics"
-    builds = ["Research Frameworks", "Financial Dashboards", "Detection Rules"]
-    exploring = ["Quant Finance", "AI/ML", "Linux", "Analytics"]
+```lua
+local grisheet = {
+    studying = "Computer Science & Economics",
 
-    def principle(self):
-        return "An individuals ambition serves the common good"
+    building = {
+        "Research frameworks",
+        "Financial dashboards",
+        "Detection rules",
+    },
+
+    exploring = {
+        "Quantitative finance",
+        "Machine learning",
+        "Linux systems",
+        "Sports analytics",
+    },
+}
+
+function grisheet.principle()
+    return "An individual's ambition serves the common good."
+end
+
+return grisheet
 ```
 
 ## What I build
 
-- **Quantitative research and financial analytics:** point-in-time data, backtesting discipline, and valuation models.
-- **Data-driven software:** dashboards and apps that explain their own outputs.
-- **Security tooling and analytics:** detection rules, player clustering, and prediction experiments.
+- **Quantitative research** — frameworks for point-in-time analysis, backtesting, and valuation.
+- **Data-driven software** — dashboards and applications that make their inputs, assumptions, and results clear.
+- **Security tooling** — detection rules and experiments in system monitoring.
+- **Sports analytics** — player clustering, statistical comparisons, and prediction experiments.
 
-[github.com/grisheet](https://github.com/grisheet)
+## How I approach it
+
+Start with a question. Make the assumptions explicit. Build something inspectable.
