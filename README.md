@@ -4,7 +4,7 @@
 
 ```python
 class Grisheet:
-    studying = "computer science"
+    studying = "computer science & economics"
     builds = ["research frameworks", "financial dashboards", "detection rules"]
     exploring = ["quant finance", "AI/ML", "Linux", "Analytics"]
 
