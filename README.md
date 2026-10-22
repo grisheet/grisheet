@@ -11,7 +11,7 @@ local grisheet = {
     },
 
     exploring = {
-        "Quantitative finance", "Machine learning", "Linux systems", "Sports analytics"
+        "Quantitative finance", "Machine learning", "Linux systems", "Analytics"
     },
 }
 
@@ -27,8 +27,4 @@ return grisheet
 - **Quantitative research** — frameworks for point-in-time analysis, backtesting, and valuation.
 - **Data-driven software** — dashboards and applications that make their inputs, assumptions, and results clear.
 - **Security tooling** — detection rules and experiments in system monitoring.
-- **Sports analytics** — player clustering, statistical comparisons, and prediction experiments.
-
-## How I approach it
-
-Start with a question. Make the assumptions explicit. Build something inspectable.
+- **Raw analytics** — personnel clustering, statistical comparisons, and prediction experiments.
